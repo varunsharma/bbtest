@@ -1,5 +1,4 @@
 import sys
-import os
 
 def factorial(num):
     if num == 0 :
