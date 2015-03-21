@@ -1,5 +1,6 @@
 import unittest
-from factorial import factorial
+#from __future__ import absolute_import
+from bbtest.fact import factorial
 
 
 class TestFactorial(unittest.TestCase):
