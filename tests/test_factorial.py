@@ -10,6 +10,5 @@ class TestFactorial(unittest.TestCase):
         self.assertNotEqual(factorial(2), 120)
 
 
-
 if __name__ == '__main__':
     unittest.main()
